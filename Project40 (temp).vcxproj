@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Src\Ziryan\main.cpp" />
+    <ClCompile Include="Src\Ziryan\ProjectFiles\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
